@@ -1,5 +1,4 @@
-https://github.com/mdechahoshen MdEsha-hoshen
-Pkg update pkg upgrade pkg install git 
+Python3 install https://github.com/mdechahoshan
 88       logo       88 88 88 88.    88 88.88 88.  88 88 88   88                88  88.              
 88. 88.         88. 88.88.      88. 88.         88.      88. 88               88.   88
 88.    88.    88.   88 88.       88.88.        88.           88.             88.     88
