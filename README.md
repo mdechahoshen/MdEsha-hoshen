@@ -1,4 +1,4 @@
-apt update Apt upgrade  pkg install nodejs
+MdEsha hoshen apt update Apt upgrade  pkg install nodejs
 or
 Tool
  pkg install nodejs-lts
