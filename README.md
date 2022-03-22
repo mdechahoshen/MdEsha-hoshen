@@ -1,12 +1,13 @@
 apt update Apt upgrade  pkg install nodejs
 or
+Tool
  pkg install nodejs-lts
 pkg install ruby
 pkg install imagemagick
 https://pastebin.com/raw/STH3JVsA
-apk add python3
-apk add py3-pip
-apk add ruby
+apk install python90-y
+apk install py3-pip
+apk install ruby
 gem install toilet
 git clone https://github.com/MdEsha hoshen.git
 cd MdEsha hoshen
@@ -20,4 +21,4 @@ chmod +x MdEsha hoshen.sh
 88.                 88.88.       88 88.        88.           88.    88.    88.         88
 88.                 88 88.      88. 88.         88.      88. 88.    88.   88.           88
 88.                 88 88 88 88.    88 88 88 88.  88 88 88.  88.    88.  88              88
-
+Email
